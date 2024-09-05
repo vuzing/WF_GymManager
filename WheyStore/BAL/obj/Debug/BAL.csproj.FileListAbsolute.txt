@@ -1,0 +1,9 @@
+D:\QuanlycuahangWheyProtein\WheyStore\BAL\bin\Debug\BAL.dll
+D:\QuanlycuahangWheyProtein\WheyStore\BAL\bin\Debug\BAL.pdb
+D:\QuanlycuahangWheyProtein\WheyStore\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+D:\QuanlycuahangWheyProtein\WheyStore\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+D:\QuanlycuahangWheyProtein\WheyStore\BAL\obj\Debug\BAL.dll
+D:\QuanlycuahangWheyProtein\WheyStore\BAL\obj\Debug\BAL.pdb
+D:\QuanlycuahangWheyProtein\WheyStore\BAL\bin\Debug\DBL.dll
+D:\QuanlycuahangWheyProtein\WheyStore\BAL\bin\Debug\DBL.pdb
+D:\QuanlycuahangWheyProtein\WheyStore\BAL\obj\Debug\BAL.csproj.CopyComplete

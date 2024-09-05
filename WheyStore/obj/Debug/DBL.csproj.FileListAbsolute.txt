@@ -1,0 +1,2 @@
+D:\QuanlycuahangWheyProtein\WheyStore\obj\Debug\DBL.csproj.AssemblyReference.cache
+D:\QuanlycuahangWheyProtein\WheyStore\obj\Debug\DBL.csproj.CoreCompileInputs.cache
